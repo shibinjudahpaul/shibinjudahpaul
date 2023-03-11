@@ -18,7 +18,7 @@ My technical expertise lies in the following areas:
 * Robotics: Prototyping, Robot Perception, Planning, Control, Navigation, and Manipulation.
 * Programming Languages: Python, C++, MATLAB, and  Arduino. 
 * Tools and Frameworks: TensorFlow, OpenCV, NumPy, Pandas, Seaborn, Matplotlib, SciKit-Learn, ROS, Arduino & Raspberry Pi.
-* Other skills: Full Stack Development, Git, SQL, JIRA.
+* Other skills: Full Stack Development, Git, SQL, JIRA, PCB design, Microcontrollers and Embedded systems.
 
 ### :speech_balloon: Lets Chat!
 * [LinkedIn](https://www.linkedin.com/in/shibinjudahpaul/)
