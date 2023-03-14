@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm **Shibin Judah Paul**, an Electronics and Communications engineer with a keen interest in Robotics and AI, in that order. My interest in AI mostly involves Computer Vision and Deep learning. I also love playing around with ML models with transfer learning, NLP models and perform EDA on Astronomical data (space image data) for fun. I am passionate about building intelligent systems that can perceive, reason, and act in complex environments. I believe that the fusion of these cutting-edge technologies has the potential to revolutionize the way we interact with the world around us.
+I'm **Shibin Judah Paul**, I have a **Bachelors degree in Electronics and Communications Engineering** and also a keen interest in **Robotics and AI**, _in that order_. My interest in AI mostly involves **Computer Vision** and **Deep learning**. I also love playing around with **ML models with transfer learning**, **NLP models to generate Poetry** and **perform EDA on Astronomical data** (space image data) for **fun**.
+
+I am **passionate** about building **intelligent systems** that can **perceive**, **reason**, and **act in complex environments**. I believe that the **fusion** of these cutting-edge technologies has the potential to **revolutionize** the way we interact with the world around us and **empower Humanity**.
 
 ### 🔭 Projects and Guides 
 
