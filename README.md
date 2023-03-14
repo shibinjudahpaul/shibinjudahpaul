@@ -17,10 +17,10 @@ I have worked on the following repos in my journey of self-learning Computer vis
 My technical expertise lies in the following areas:
 * Machine Learning: Transfer Learning, Time Series Forecasting, NLP, Data Science, Deep Learning, Supervised and Unsupervised Learning, and Regression.
 * Computer Vision: Image Processing, Object Detection, Optical Flow, Stereo Vision, Segmentation, Tracking, and Recognition.
-* Robotics: Prototyping, Robot Perception, Planning, Control, Navigation, and Manipulation.
-* Programming Languages: Python, C++, MATLAB, and  Arduino. 
+* Robotics: Prototyping, PCB design, Microcontrollers and Embedded systems, Robot Perception, Planning, Control, Navigation and Manipulation.
+* Programming Languages: Python, C++, MATLAB, Javascript and Arduino.
 * Tools and Frameworks: TensorFlow, OpenCV, NumPy, Pandas, Seaborn, Matplotlib, SciKit-Learn, ROS, Arduino & Raspberry Pi.
-* Other skills: Full Stack Development, Git, SQL, JIRA, PCB design, Microcontrollers and Embedded systems.
+* Other skills:  Full Stack Development, Amazon AWS, Google GCP Git, SQL & JIRA.
 
 ### :speech_balloon: Lets Chat!
 * [LinkedIn](https://www.linkedin.com/in/shibinjudahpaul/)
