@@ -25,4 +25,5 @@ My technical expertise lies in the following areas:
 ### :speech_balloon: Lets Chat!
 * [LinkedIn](https://www.linkedin.com/in/shibinjudahpaul/)
 * [Kaggle](https://www.kaggle.com/shibinjudah)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+![](https://komarev.com/ghpvc/?username=shibinjudahpaul&color=green)
