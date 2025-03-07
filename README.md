@@ -7,7 +7,7 @@ I have worked on the following repos in my journey of self-learning Computer vis
 * [Computer Vision](https://github.com/shibinjudahpaul/OpenCV-Projects) 👁️👁️🤖📷 
 * [Machine Learning](https://github.com/shibinjudahpaul/Machine-and-Deep-Learning-Projects) 🧠💻🤖📈
 * [Natural Language Processing](https://github.com/shibinjudahpaul/NLP-Projects) 🗣️💬📊🤖
-* [EDA on Astronomical Data](https://github.com/shibinjudahpaul/SpaceImageDataProcessing-Projects) 🌌🔭🪐✨
+* [Space Image Data Processing](https://github.com/shibinjudahpaul/SpaceImageDataProcessing-Projects) 🌌🔭🪐✨
 
 
 ### :wrench: Skills and Expertise 
